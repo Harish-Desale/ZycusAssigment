@@ -4,7 +4,7 @@ Solution And Assumptions :-
 
 Solution :-
 
-Refere CustomMap.Java
+Refer CustomMap.Java
 
 Assumptions -
  - No null Key And Values
